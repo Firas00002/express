@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+.home-body{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+}
